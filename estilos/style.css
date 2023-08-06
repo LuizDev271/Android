@@ -27,6 +27,8 @@
 
 body{
     background-color: var(--cor1);
+    background-image: url('../imagens/fundo\ verde\ folhas.png');
+    background-attachment: fixed;
     font-family: var(--fonte-padrao);
 }
 
